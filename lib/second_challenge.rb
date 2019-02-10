@@ -12,4 +12,4 @@ def second_challenge
 
 end
 
-second_challenge
+puts second_challenge
